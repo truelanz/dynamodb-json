@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Raimundos"},
+                  "SongTitle": {"S": "Andar na pedra"},
+                  "AlbumTitle": {"S": "Lapadas do Povo"},
+                  "SongYear": {"S": "1997"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Raimundos"},
+                  "SongTitle": {"S": "Eu quero ver o Oco"},
+                  "AlbumTitle": {"S": "Lavô tá Novo"},
+                  "SongYear": {"S": "1995"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Raimundos"},
+                  "SongTitle": {"S": "Politics"},
+                  "AlbumTitle": {"S": "Cantigas de Roda"},
+                  "SongYear": {"S": "2014"}
+                }
+            }
+        }
+      ]
+}
