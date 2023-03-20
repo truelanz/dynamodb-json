@@ -3,6 +3,8 @@
 >#### Based on the DIO course: "*Boas Prática com DynamoDB.*" :white_check_mark:
 -  [`Repository reference` for queries and index creation.](https://github.com/cassianobrexbit/dio-live-dynamodb)
 
+-  Created from `WSL2` with `Ubuntu`.
+
 _created items_:
 ![created items](https://i.imgur.com/QtOrOF3.jpg)
 
